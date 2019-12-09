@@ -239,7 +239,7 @@ function getRunnersByTShirtSize(runners, tShirtSize) {
       runnersByTShirtSize.push(runner.shirt_size);
   });
   return runnersByTShirtSize;
-}
+}// still has an error in testing data
 
 /**
  * ### Challenge `tallyUpDonations`
